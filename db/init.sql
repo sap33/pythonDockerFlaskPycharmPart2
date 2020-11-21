@@ -1,5 +1,5 @@
-CREATE DATABASE citiesData1;
-use citiesData1;
+CREATE DATABASE citiesData;
+use citiesData;
 
 CREATE TABLE IF NOT EXISTS tblCitiesImport (
     `fldName` VARCHAR(21) CHARACTER SET utf8,
